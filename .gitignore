@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+
+# Build
+target/
+
+# OS/Logs
+.DS_Store
+*.log
+
+# Maven wrapper binary
+.mvn/wrapper/maven-wrapper.jar
